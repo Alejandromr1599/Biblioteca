@@ -32,10 +32,35 @@ Proyecto de escritorio desarrollado en **Java (NetBeans)** que permite gestionar
 
 📦 gestionBiblioteca.zip
 ┣ 📁 src/
-┃ ┣ 📄 Usuario.java
-┃ ┣ 📄 Libro.java
+
+┃ ┣ 📄 Usuarios.java
+
+┃ ┣ 📄 Usuarios.form
+
+┃ ┣ 📄 Libros.java
+
+┃ ┣ 📄 Libros.form
+
 ┃ ┣ 📄 Prestamo.java
-┃ ┗ 📄 InterfazPrincipal.form
+
+┃ ┣ 📄 Prestamo.form
+
+┃ ┣ 📄 Devoluciones.java
+
+┃ ┣ 📄 Devoluciones.form
+
+┃ ┣ 📄 Principal.java
+
+┃ ┣ 📄 Principal.form
+
+┃ ┣ 📄 Biblioteca.sql
+
+┃ ┣ 📄 Biblioteca.java
+
+┃ ┣ 📄 Biblioteca.form
+
+┃ ┗ 📄 GestionBiblioteca.java
+
 📄 video_demo.mp4
 
 ---
@@ -52,7 +77,7 @@ Proyecto de escritorio desarrollado en **Java (NetBeans)** que permite gestionar
 1. 📥 Descarga y descomprime `gestionBiblioteca.zip`.
 2. 🧩 Abre el proyecto en **NetBeans**.
 3. 🔧 Configura la conexión a tu base de datos MySQL (usuario, contraseña, nombre de base de datos).
-4. ▶️ Ejecuta la aplicación desde `InterfazPrincipal.java`.
+4. ▶️ Ejecuta la aplicación desde `GestionBiblioteca.java`.
 
 ---
 
@@ -66,7 +91,8 @@ Proyecto de escritorio desarrollado en **Java (NetBeans)** que permite gestionar
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre]  
+Desarrollado por: Alejandro Medina Ramirez 
+
 Técnico en Sistemas Microinformáticos y Redes  
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
