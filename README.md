@@ -14,7 +14,7 @@ Proyecto de escritorio desarrollado en **Java (NetBeans)** que permite gestionar
 
 - 👤 **Gestión de usuarios:** Alta, modificación y baja de usuarios registrados.
 - 📚 **Gestión de libros:** Registro, edición y eliminación de libros disponibles.
-- 📖 **Préstamos:** Asignación de libros a usuarios con control de fechas.
+- 📖 **Préstamos:** Asignación de libros a usuarios con control por DNI.
 - 🔄 **Devoluciones:** Registro de devoluciones con validaciones.
 - 🏠 **Pantalla principal:** Menú general que permite navegar entre las diferentes secciones.
 
